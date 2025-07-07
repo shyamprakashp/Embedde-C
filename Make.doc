@@ -1,0 +1,12 @@
+// MAKE FILE
+---------------format------------------
+target : prerequisite  recipe
+  target -> output file
+  prerequisite -> input file
+  recipe -> commands
+---------variables--------------------
+  text strings can be stored as varibles
+  reference as $( variable_name ) or ${ variable_name } 
+  $@   -> target
+  $^   -> prerequisite
+  
