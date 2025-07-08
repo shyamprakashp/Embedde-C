@@ -1,6 +1,7 @@
 # Embedde-C
 Embedded C practice examples
 
+-----------------------------------------------------------------
     file name         |             definition
 -----------------------------------------------------------------    
  stm32_ls.ld          |  linker script
@@ -8,3 +9,5 @@ Embedded C practice examples
  make.doc             |  definition of make file
  Makefile             |  make file
  main.c               |  Register definition using C structures
+
+-----------------------------------------------------------------
